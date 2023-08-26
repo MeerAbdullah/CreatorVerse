@@ -32,13 +32,13 @@ The following **additional** features are implemented:
 * [x] List anything else that you added to improve the site's functionality!
 - Additional CSS Styling, make more prettier.
 - Add additional 3D animations with react-tilt too maybe.
-- 
+- Make text styled and look better as well as the cards.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  👉🏿 GIF tool here [Kap](https://getkap.co/)

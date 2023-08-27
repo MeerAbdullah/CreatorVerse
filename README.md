@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/FClLP8N.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  👉🏿 GIF tool here [Kap](https://getkap.co/)
@@ -50,6 +50,10 @@ GIF created with Kap  👉🏿 GIF tool here [Kap](https://getkap.co/)
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
+Some challenges I faced was having to center the form I made when editing the informtion regarding a Creator. Fixed some small thigns in CSS and fixed it.
+Another challenge was getting the database configured, because it was my firs ttime using this database so I'm unsure why it took me a decent time to get it configured, but I got it at least.
+Overall, there wasn't really anything that stumped me hard where I didn't know what to do at first besides above, it just took a decent amount of time to do everything.
 
 ## License
 
